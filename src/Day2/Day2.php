@@ -7,7 +7,6 @@ use ErrorException;
 
 class Day2 extends BaseClass
 {
-
     protected static array $draw_map = [
         "A" => "X",
         "B" => "Y",
