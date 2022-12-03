@@ -15,5 +15,8 @@
     },
     "require-dev": {
         "symfony/var-dumper": "^6.2"
+    },
+    "scripts": {
+        "day": "AOC2022\\AOCHelper::day" 
     }
 }
