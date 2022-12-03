@@ -1,0 +1,19 @@
+{
+    "name": "venus/aoc2022",
+    "description": "AOC 2022 in PHP",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brendan Angerman"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "AOC2022\\": "src/"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^6.2"
+    }
+}
