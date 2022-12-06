@@ -22,7 +22,7 @@ class Day1 extends BaseClass
         $this->answer_data = [];
         $elf_index = 0;
 
-        foreach( $this->data as $item ) {
+        foreach ( $this->data as $item ) {
             if ( $item === "" ) {
                 $elf_index++;
                 continue;
